@@ -45,10 +45,10 @@
       "title": "30-Day Read",
       "activity": "Read",
       "durationDays": 30,
-      "startDate": "",
+      "startDate": "2026-08-01",
       "from": "22f2001193",
       "to": "neerajmenon4",
-      "status": "pending",
+      "status": "active",
       "completions": []
     },
     {
