@@ -4,5 +4,39 @@
     "current": 30,
     "longest": 30
   },
-  "challenges": []
+  "challenges": [
+    {
+      "id": "701f6fa8-ece9-4c98-bedb-aa1e81658655",
+      "title": "30 day reading challenge",
+      "activity": "30 day reading challenge",
+      "durationDays": 30,
+      "startDate": "",
+      "from": "neerajmenon4",
+      "to": "22f2001193",
+      "status": "pending",
+      "completions": []
+    },
+    {
+      "id": "23783b8c-5737-4dc3-b66e-dee4ef00fae6",
+      "title": "14-Day 5K Run",
+      "activity": "14-Day 5K Run",
+      "durationDays": 14,
+      "startDate": "",
+      "from": "neerajmenon4",
+      "to": "22f2001193",
+      "status": "pending",
+      "completions": []
+    },
+    {
+      "id": "88b60a6c-a221-4c10-80a3-995dca4a0663",
+      "title": "14-Day 5K Run",
+      "activity": "14-Day 5K Run",
+      "durationDays": 14,
+      "startDate": "",
+      "from": "neerajmenon4",
+      "to": "22f2001193",
+      "status": "pending",
+      "completions": []
+    }
+  ]
 }
