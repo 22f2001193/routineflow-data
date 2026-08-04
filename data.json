@@ -61,6 +61,17 @@
       "to": "22f2001193",
       "status": "active",
       "completions": []
+    },
+    {
+      "id": "7926d1ec-fe9f-4815-943b-c91b29e628ab",
+      "title": "drink 1000 litres a day",
+      "activity": "Drink Water",
+      "durationDays": 7,
+      "startDate": "",
+      "from": "22f2001193",
+      "to": "neerajmenon4",
+      "status": "pending",
+      "completions": []
     }
   ]
 }
